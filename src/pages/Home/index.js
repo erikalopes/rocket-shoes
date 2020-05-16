@@ -1,6 +1,5 @@
 import React from 'react';
 import { MdAddShoppingCart } from 'react-icons/md';
-
 import { ProductList } from './styles';
 
 function Home() {
@@ -17,7 +16,7 @@ function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#fff" />
           </div>
-          <span>ADICONAR AO CARRINHO</span>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>

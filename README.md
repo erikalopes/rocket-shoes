@@ -12,4 +12,4 @@
 
 
 
-[LIVE DEMO](https://erikalopse.github.io/rocket-shoes)
+[LIVE DEMO](https://erikalopes.github.io/rocket-shoes)

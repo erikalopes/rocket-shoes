@@ -5,7 +5,6 @@ import { MdRemoveCircleOutline, MdAddCircleOutline, MdDelete } from 'react-icons
 import { Container, ProductTable, Total } from './styles';
 import * as CartActions from '../../store/modules/cart/actions';
 import { formatPrice } from '../../utils/format';
-import produce from 'immer';
 
 function Cart({ cart, total, removeFromCart, updateAmount }) {
 

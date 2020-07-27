@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1350376c90495e9ae6b6f88a602023e8",
+    "revision": "48dc888333d1d1d9070166fcab7f0112",
     "url": "/rocket-shoes/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rocket-shoes/static/js/2.ba959cdb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0823859257cdb02b9fd",
-    "url": "/rocket-shoes/static/js/main.71254dbc.chunk.js"
+    "revision": "62a201183974092c0307",
+    "url": "/rocket-shoes/static/js/main.122baf01.chunk.js"
   },
   {
     "revision": "4cfd46fd44887100d0d3",

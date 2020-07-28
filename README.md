@@ -9,9 +9,9 @@
 ## the api documentation
 
 - https://api-rocketshoes-erika.herokuapp.com/
+a
 
-![](https://s7.gifyu.com/images/background0b66521940b43092.gif | width=100)
-
+<img src="https://s7.gifyu.com/images/background0b66521940b43092.gif" data-canonical-src="https://s7.gifyu.com/images/background0b66521940b43092.gif" width="200" height="400" />
 
 
 

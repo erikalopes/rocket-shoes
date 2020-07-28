@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/rocket-shoes/static/js/main.8ac26c03.chunk.js",
-    "main.js.map": "/rocket-shoes/static/js/main.8ac26c03.chunk.js.map",
+    "main.js": "/rocket-shoes/static/js/main.2274263f.chunk.js",
+    "main.js.map": "/rocket-shoes/static/js/main.2274263f.chunk.js.map",
     "runtime-main.js": "/rocket-shoes/static/js/runtime-main.5e44d1a9.js",
     "runtime-main.js.map": "/rocket-shoes/static/js/runtime-main.5e44d1a9.js.map",
     "static/js/2.306ea47d.chunk.js": "/rocket-shoes/static/js/2.306ea47d.chunk.js",
     "static/js/2.306ea47d.chunk.js.map": "/rocket-shoes/static/js/2.306ea47d.chunk.js.map",
     "index.html": "/rocket-shoes/index.html",
-    "precache-manifest.7ffb21867fe08104513325fee90cd8a5.js": "/rocket-shoes/precache-manifest.7ffb21867fe08104513325fee90cd8a5.js",
+    "precache-manifest.33800de9cffd8dfe26e3f0e94e10531f.js": "/rocket-shoes/precache-manifest.33800de9cffd8dfe26e3f0e94e10531f.js",
     "service-worker.js": "/rocket-shoes/service-worker.js",
     "static/js/2.306ea47d.chunk.js.LICENSE.txt": "/rocket-shoes/static/js/2.306ea47d.chunk.js.LICENSE.txt",
     "static/media/background.svg": "/rocket-shoes/static/media/background.3c9a1ce5.svg",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.5e44d1a9.js",
     "static/js/2.306ea47d.chunk.js",
-    "static/js/main.8ac26c03.chunk.js"
+    "static/js/main.2274263f.chunk.js"
   ]
 }

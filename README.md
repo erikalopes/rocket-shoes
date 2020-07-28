@@ -10,6 +10,9 @@
 
 - https://api-rocketshoes-erika.herokuapp.com/
 
+![](https://s7.gifyu.com/images/background0b66521940b43092.gif | width=100)
 
 
-## [LIVE DEMO](https://erikalopes.github.io/rocket-shoes)
+
+
+

@@ -21,7 +21,6 @@ class Home extends Component {
         }))
 
         this.setState({ products: data });
-        console.log(response)
     }
 
     handleAddProduct = product => {
